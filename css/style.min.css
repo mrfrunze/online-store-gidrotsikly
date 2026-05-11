@@ -1998,6 +1998,10 @@ input:focus-visible {
 }
 .menu-categories__item {
   position: relative;
+  
+}
+
+.menu-categories__link{
   padding: 15px 0 14px;
 }
 .menu-categories__item:before {
